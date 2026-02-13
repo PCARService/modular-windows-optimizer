@@ -46,12 +46,13 @@ NESTE CONJUNTO DE SCRIPTS REALIZA OTIMIZAÇÕES A NÍVEL DO SISTEMA OPERACIONAL
 (Windows 10/11). ELE NÃO MODIFICA A BIOS/UEFI NEM O FIRMWARE.
 
 Como usar?
-Abra o arquivo "Run.cmd" com privilégio de administrador.
-Aguarde a finalização da otimização.
-Reinicie o computador.
-É, só isso mesmo. :b
+- Abra o arquivo "Run.cmd" com privilégio de administrador.
+- Aguarde a finalização da otimização.
+-Reinicie o computador.
+- É, só isso mesmo. :b
 
 Opcional: 
 O arquivo 'try this after.reg' pode ser utilizado como uma substituição manual 
 para desativar certos serviços que o Windows pode reativar automaticamente. 
 Ele não é necessário ou obrigatório para o funcionamento do script principal. 
+
